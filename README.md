@@ -8,10 +8,10 @@
   Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Ali Saleh
 </h2>
 
-<!-- Table with Graph GIFs -->
+<!-- Data-Themed GIFs and Bio in Table Format -->
 <table>
   <tr>
-    <td><img src="https://media.giphy.com/media/VxbvpfaTTo3le/giphy.gif" width="150px"></td>
+    <td><img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="150px"></td>
     <td align="center">
       <h3>AI and ML Developer</h3>
       <p>
@@ -19,9 +19,10 @@
         From multimodal sentiment analysis to academic forecasting, I love turning data into insight.
       </p>
     </td>
-    <td><img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="150px"></td>
+    <td><img src="https://media.giphy.com/media/1ynCEtlgMPAeNAqdnu/giphy.gif" width="150px"></td>
   </tr>
 </table>
+
 
 ---
 
