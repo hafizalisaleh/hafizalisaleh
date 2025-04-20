@@ -7,10 +7,9 @@
 <h2 align="center">
   Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  I'm Ali Saleh
+  I'm Ali Saleh
 </h2>
 
-<!-- Analytics‑style side GIFs (replace URLs if you prefer others) -->
 <!-- Graph-themed Side Animations -->
 <img align="left" src="https://media.giphy.com/media/VxbvpfaTTo3le/giphy.gif" width="18%" />
 <img align="right" src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="18%" />
@@ -46,20 +45,20 @@
 ---
 
 ### 📌 Projects
-- **Multimodal Sentiment Analyzer** – ResNet + DistilBERT fusion  
+- **Multimodal Sentiment Analyzer** – ResNet + DistilBERT fusion  
 - **EduPredict** – Student‑grade forecasting  
-- **Tweets Sentiment Classifier** – NLP emotion detector  
-- **Digital Dokan** – .NET e‑commerce platform  
-- **C++ Arcade Games** – Space Invaders & Pong
+- **Tweets Sentiment Classifier** – NLP emotion detector  
+- **Digital Dokan** – .NET e‑commerce platform  
+- **C++ Arcade Games** – Space Invaders & Pong
 
 ---
 
-### 📫 Connect With Me
+### 📫 Connect With Me
 [Email](mailto:alisaleh7214@gmail.com) • [LinkedIn](https://www.linkedin.com/in/hafiz-ali-saleh-823027254) • [GitHub](https://github.com/hafizalisaleh)
 
 ---
 
-### 🏆 Achievements & Streak
+### 🏆 Achievements & Streak
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hafizalisaleh&theme=matrix&no-frame=true&row=1&column=4" />
@@ -71,7 +70,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hafizalisaleh&show_icons=true&theme=tokyonight" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizalisaleh&layout=compact&theme=tokyonight" />
