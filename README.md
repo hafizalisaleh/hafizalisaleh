@@ -11,8 +11,9 @@
 </h2>
 
 <!-- Analytics‑style side GIFs (replace URLs if you prefer others) -->
-<img align="left"  src="https://media.giphy.com/media/VxbvpfaTTo3le/giphy.gif"   width="18%">
-<img align="right" src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="18%">
+<!-- Graph-themed Side Animations -->
+<img align="left" src="https://media.giphy.com/media/VxbvpfaTTo3le/giphy.gif" width="18%" />
+<img align="right" src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="18%" />
 
 <!-- Typing Animation -->
 <p align="center">
