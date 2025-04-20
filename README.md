@@ -11,8 +11,10 @@
 </h2>
 
 <!-- Confetti -->
-<img align="left" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="18%">
-<img align="right" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="18%">
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="50%" />
+</p>
+
 
 
 <!-- Typing Animation -->
