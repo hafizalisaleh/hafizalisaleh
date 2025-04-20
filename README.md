@@ -5,25 +5,23 @@
 
 <!-- Intro Message -->
 <h2 align="center">
-  Hi there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  I'm Ali Saleh
+  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Ali Saleh
 </h2>
 
-<!-- Graph-themed Side Animations -->
-<img align="left" src="https://media.giphy.com/media/VxbvpfaTTo3le/giphy.gif" width="18%" />
-<img align="right" src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="18%" />
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=200&center=true&vCenter=true&width=435&lines=Final+Year+BS+Data+Science+Student;AI+and+ML+Developer;Multimodal+NLP+Engineer;Always+Learning+New+Tech" />
-</p>
-
-<!-- Bio -->
-<p align="center">
-  I’m deeply passionate about building AI‑driven solutions that create impact.<br>
-  From multimodal sentiment analysis to academic forecasting, I love turning data into insight.
-</p>
+<!-- Table with Graph GIFs -->
+<table>
+  <tr>
+    <td><img src="https://media.giphy.com/media/VxbvpfaTTo3le/giphy.gif" width="150px"></td>
+    <td align="center">
+      <h3>AI and ML Developer</h3>
+      <p>
+        I’m deeply passionate about building AI‑driven solutions that create impact.<br>
+        From multimodal sentiment analysis to academic forecasting, I love turning data into insight.
+      </p>
+    </td>
+    <td><img src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="150px"></td>
+  </tr>
+</table>
 
 ---
 
