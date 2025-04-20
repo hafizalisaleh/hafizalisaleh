@@ -7,12 +7,12 @@
 <h2 align="center">
   Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  I'm Ali Saleh
+  I'm Ali Saleh
 </h2>
 
-<!-- Confetti -->
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%">
-<img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="18%">
+<!-- Analytics‑style side GIFs (replace URLs if you prefer others) -->
+<img align="left"  src="https://media.giphy.com/media/VxbvpfaTTo3le/giphy.gif"   width="18%">
+<img align="right" src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif" width="18%">
 
 <!-- Typing Animation -->
 <p align="center">
@@ -21,52 +21,57 @@
 
 <!-- Bio -->
 <p align="center">
-  I’m deeply passionate about building AI-driven solutions that create impact. <br>
-  From developing multimodal AI to forecasting student performance, I love using data to solve real-world problems.
+  I’m deeply passionate about building AI‑driven solutions that create impact.<br>
+  From multimodal sentiment analysis to academic forecasting, I love turning data into insight.
 </p>
 
 ---
 
-### 🛠️ Tech Stack
-
+### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" width="50" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" width="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" />
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="50" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" />
+  <img src="https://techstack-generator.vercel.app/html-icon.svg"   width="50"/>
+  <img src="https://techstack-generator.vercel.app/css-icon.svg"    width="50"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg"     width="50"/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg"  width="50"/>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" width="50"/>
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg"    width="50"/>
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" width="50"/>
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50"/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg"  width="50"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50"/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50"/>
 </div>
 
 ---
 
-### 📌 Projects
-
-- 🎯 **Multimodal Sentiment Analyzer** – Fusion of image + text using ResNet + DistilBERT  
-- 📊 **EduPredict** – Forecasts student grades from engagement patterns  
-- 💬 **Tweets Sentiment Classifier** – NLP-based emotion detector  
-- 🛍️ **Digital Dokan** – .NET-based E-Commerce platform  
-- 👾 **C++ Arcade Games** – Space Invaders & Pong using file handling and graphics
-
----
-
-### 📫 Connect With Me
-
-- 📧 [alisaleh7214@gmail.com](mailto:alisaleh7214@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/hafiz-ali-saleh-823027254)  
-- 🧑‍💻 [GitHub](https://github.com/hafizalisaleh)
+### 📌 Projects
+- **Multimodal Sentiment Analyzer** – ResNet + DistilBERT fusion  
+- **EduPredict** – Student‑grade forecasting  
+- **Tweets Sentiment Classifier** – NLP emotion detector  
+- **Digital Dokan** – .NET e‑commerce platform  
+- **C++ Arcade Games** – Space Invaders & Pong
 
 ---
 
-### 📈 GitHub Stats
+### 📫 Connect With Me
+[Email](mailto:alisaleh7214@gmail.com) • [LinkedIn](https://www.linkedin.com/in/hafiz-ali-saleh-823027254) • [GitHub](https://github.com/hafizalisaleh)
+
+---
+
+### 🏆 Achievements & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hafizalisaleh&show_icons=true&theme=tokyonight" />
-  <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=hafizalisaleh&theme=matrix&no-frame=true&row=1&column=4" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafizalisaleh&theme=radical&border=7F3FBF&background=0D1117" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hafizalisaleh&show_icons=true&theme=tokyonight" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizalisaleh&layout=compact&theme=tokyonight" />
 </p>
