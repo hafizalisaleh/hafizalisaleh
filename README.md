@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi there 👋, I'm Ali Saleh</h1>
 <p align="center"><strong>Data Science Enthusiast | AI Developer | Problem Solver</strong></p>
 
@@ -18,16 +17,13 @@
 
 ---
 
-### 💻 Technologies I Work With
+### 🔧 Technologies I Use
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="150" />
 </p>
 
 ---
@@ -58,4 +54,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hafizalisaleh&show_icons=true&theme=tokyonight" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizalisaleh&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="100%" />
 </p>
