@@ -41,20 +41,14 @@ open_to    = "Collaborations & interesting problems"
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafizalisaleh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=bae6fd"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafizalisaleh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=bae6fd"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizalisaleh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=bae6fd"/>
-
 </div>
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=hafizalisaleh&theme=tokyonight&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=bae6fd)](https://git.io/streak-stats)
-
 </div>
-
 ---
 
 ## 📈 Activity Graph
