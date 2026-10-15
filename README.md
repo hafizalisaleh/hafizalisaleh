@@ -9,7 +9,7 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
 ```python
 name       = "Hafiz Ali Saleh"
@@ -22,7 +22,7 @@ open_to    = "Collaborations & interesting problems"
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -32,7 +32,7 @@ open_to    = "Collaborations & interesting problems"
 
 ---
 
-## 📂 Selected Work
+## Selected Work
 
 > I am currently compiling my detailed case studies and projects into a dedicated portfolio website. Once it's live, I will link it here.
 >
@@ -40,7 +40,7 @@ open_to    = "Collaborations & interesting problems"
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hafizalisaleh&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=bae6fd"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafizalisaleh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=bae6fd"/>
@@ -51,7 +51,7 @@ open_to    = "Collaborations & interesting problems"
 </div>
 ---
 
-## 📈 Activity Graph
+## Activity Graph
 
 <div align="center">
 
@@ -65,6 +65,6 @@ open_to    = "Collaborations & interesting problems"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=100&section=footer" />
 
-*Understanding data. Building intelligence.* 🚀
+*Understanding data. Building intelligence.* 
 
 </div>
