@@ -1,8 +1,10 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=28&amp;duration=3000&amp;pause=1000&amp;color=0ea5e9&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Hi%2C+I'm+Hafiz+Ali+Saleh+%F0%9F%91%8B;Data+Scientist+%7C+NLP+Engineer;Building+AI+that+understands" />
+![Profile Views](https://komarev.com/ghpvc/?username=hafizalisaleh&color=dc143c)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hafizalisaleh&color=0ea5e9&style=for-the-badge&label=VIEWS)](https://github.com/hafizalisaleh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hafiz--ali--saleh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hafiz-ali-saleh-823027254)
+
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-hafiz--ali--saleh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ali-saleh-823027254) -->
 [![Gmail](https://img.shields.io/badge/Gmail-alisaleh7214-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alisaleh7214@gmail.com)
 
 </div>
