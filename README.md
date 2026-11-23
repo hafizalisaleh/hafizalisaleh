@@ -18,6 +18,7 @@
 
 ## 👨‍💻 About Me
 
+```python
 class HafizAliSaleh:
     name      = "Hafiz Ali Saleh"
     location  = "Lahore, Pakistan 🇵🇰"
@@ -26,9 +27,9 @@ class HafizAliSaleh:
     focus     = ["Multimodal AI", "Deep Learning", "NLP", "Computer Vision"]
     building  = "Models that understand context, not just data"
     open_to   = "Collaborations & interesting problems"
+```
 
 ---
-
 ## 💼 Experience
 
 | Role | Organization | Work |
