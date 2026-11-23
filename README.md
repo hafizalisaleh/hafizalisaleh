@@ -16,7 +16,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```python
 class HafizAliSaleh:
@@ -31,7 +31,7 @@ class HafizAliSaleh:
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Organization | Work |
 |:--|:--|:--|
@@ -40,7 +40,7 @@ class HafizAliSaleh:
 
 ---
 
-## 🌱 Currently
+##  Currently
 
 - 🌫️ Working on air-quality prediction and retrieval models
 - 🎓 Preparing for a master's in AI Solutions Management
@@ -60,15 +60,17 @@ class HafizAliSaleh:
 
 ---
 
-## 🚀 Selected Work
+## Selected Projects
 
-> I'm compiling my case studies and projects into a dedicated portfolio website — I'll link it here once it's live.
+> My case studies and projects are now live on my portfolio website.
 >
-> In the meantime, explore my **[repositories](https://github.com/hafizalisaleh?tab=repositories)** to see my recent work in action.
+> 🌐 **[ali-portfolio-eight-psi.vercel.app](https://ali-portfolio-eight-psi.vercel.app/)**
+>
+> You can also explore my **[repositories](https://github.com/hafizalisaleh?tab=repositories)** to see my recent work in action.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
