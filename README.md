@@ -16,7 +16,7 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
 ```python
 class HafizAliSaleh:
@@ -31,7 +31,7 @@ class HafizAliSaleh:
 
 ---
 
-## Experience
+## 💼 Experience
 
 | Role | Organization | Work |
 |:--|:--|:--|
@@ -40,7 +40,7 @@ class HafizAliSaleh:
 
 ---
 
-##  Currently
+## 🌱 Currently
 
 - 🌫️ Working on air-quality prediction and retrieval models
 - 🎓 Preparing for a master's in AI Solutions Management
@@ -60,7 +60,7 @@ class HafizAliSaleh:
 
 ---
 
-## Selected Projects
+## 🚀 Selected Work
 
 > My case studies and projects are now live on my portfolio website.
 >
@@ -70,11 +70,11 @@ class HafizAliSaleh:
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafizalisaleh&theme=tokyonight" width="100%" alt="Profile details" />
+<img src="https://raw.githubusercontent.com/hafizalisaleh/hafizalisaleh/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafizalisaleh&theme=tokyonight" height="165" alt="Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafizalisaleh&theme=tokyonight" height="165" alt="Most commit language" />
@@ -82,6 +82,14 @@ class HafizAliSaleh:
 <a href="https://github.com/hafizalisaleh">
   <img src="https://streak-stats.demolab.com?user=hafizalisaleh&theme=tokyonight&hide_border=true&background=1A1B27&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" alt="GitHub streak" />
 </a>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafizalisaleh/hafizalisaleh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hafizalisaleh/hafizalisaleh/output/github-snake.svg" />
+  <img src="https://raw.githubusercontent.com/hafizalisaleh/hafizalisaleh/output/github-snake-dark.svg" alt="Snake eating my contributions" />
+</picture>
 
 </div>
 
@@ -94,6 +102,7 @@ class HafizAliSaleh:
 <a href="https://www.linkedin.com/in/ali-saleh-823027254"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:alisaleh7214@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/hafizalisaleh"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://ali-portfolio-eight-psi.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0EA5E9?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 <br/><br/>
 
