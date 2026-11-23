@@ -18,7 +18,6 @@
 
 ## 👨‍💻 About Me
 
-```python
 class HafizAliSaleh:
     name      = "Hafiz Ali Saleh"
     location  = "Lahore, Pakistan 🇵🇰"
@@ -27,7 +26,6 @@ class HafizAliSaleh:
     focus     = ["Multimodal AI", "Deep Learning", "NLP", "Computer Vision"]
     building  = "Models that understand context, not just data"
     open_to   = "Collaborations & interesting problems"
-```
 
 ---
 
@@ -42,9 +40,9 @@ class HafizAliSaleh:
 
 ## 🌱 Currently
 
-- 🌫️ Working on air-quality prediction and retrieval models
-- 🎓 Preparing for a master's in AI Solutions Management
-- 🎯 Long-term goal: help build an **air-quality early-warning system for Lahore**
+🌫️ Working on air-quality prediction and retrieval models
+🎓 Preparing for a master's in AI Solutions Management
+🎯 Long-term goal: help build an **air-quality early-warning system for Lahore**
 
 ---
 
@@ -62,11 +60,9 @@ class HafizAliSaleh:
 
 ## 🚀 Selected Work
 
-> My case studies and projects are now live on my portfolio website.
->
-> 🌐 **[ali-portfolio-eight-psi.vercel.app](https://ali-portfolio-eight-psi.vercel.app/)**
->
-> You can also explore my **[repositories](https://github.com/hafizalisaleh?tab=repositories)** to see my recent work in action.
+I'm compiling my case studies and projects into a dedicated portfolio website — I'll link it here once it's live.
+
+In the meantime, explore my **repositories** to see my recent work in action.
 
 ---
 
@@ -74,7 +70,7 @@ class HafizAliSaleh:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/hafizalisaleh/hafizalisaleh/main/profile-3d-contrib/profile-night-view.svg" width="100%" alt="3D contribution graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hafizalisaleh&theme=tokyonight" width="100%" alt="Profile details" />
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hafizalisaleh&theme=tokyonight" height="165" alt="Stats" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hafizalisaleh&theme=tokyonight" height="165" alt="Most commit language" />
@@ -82,14 +78,6 @@ class HafizAliSaleh:
 <a href="https://github.com/hafizalisaleh">
   <img src="https://streak-stats.demolab.com?user=hafizalisaleh&theme=tokyonight&hide_border=true&background=1A1B27&ring=0EA5E9&fire=0EA5E9&currStreakLabel=0EA5E9" alt="GitHub streak" />
 </a>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hafizalisaleh/hafizalisaleh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hafizalisaleh/hafizalisaleh/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/hafizalisaleh/hafizalisaleh/output/github-snake-dark.svg" alt="Snake eating my contributions" />
-</picture>
 
 </div>
 
@@ -102,7 +90,6 @@ class HafizAliSaleh:
 <a href="https://www.linkedin.com/in/ali-saleh-823027254"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:alisaleh7214@gmail.com"><img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/hafizalisaleh"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://ali-portfolio-eight-psi.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-0EA5E9?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 
 <br/><br/>
 
